@@ -5,11 +5,10 @@ What is Graphene?
 
 .. contents:: Table of Contents
 
-Graphene 2.0
+Graphene
 ==============
 
-Graphene is a technology supported by next generation entrepreneurs, investors, and developers with a common interest in finding free market solutions by leveraging the power of globally decentralized consensus and decision making. Consensus technology has the power to do for economics what the internet did for information. It can harness the combined power of all humanity to coordinate the discovery and aggregation of real-time knowledge, previously unobtainable. This knowledge can be used to more effectively
-coordinate the allocation of resources toward their most productive and valuable use.
+Graphene is a technology supported by next generation entrepreneurs, investors, and developers with a common interest in finding free market solutions by leveraging the power of globally decentralized consensus and decision making. Consensus technology has the power to do for economics what the internet did for information. It can harness the combined power of all humanity to coordinate the discovery and aggregation of real-time knowledge, previously unobtainable. This knowledge can be used to more effectively coordinate the allocation of resources toward their most productive and valuable use.
 
 Bitcoin is the first fully autonomous system to utilize distributed consensus technology to create a more efficient and reliable global payment network. The core innovation of Bitcoin is the Blockchain, a cryptographically secured public ledger of all accounts on the Bitcoin network that facilitates the transfer of value from one individual directly to another. For the first time in history, financial transactions over the internet no longer require a middle man to act as a trustworthy, confidential fiduciary.
 
@@ -18,13 +17,7 @@ which companies can run without any human management and under the control of an
 
 Graphene does for business what bitcoin did for money by utilizing distributed consensus technology to create companies that are inherently global, transparent, trustworthy, efficient and most importantly profitable.
 
-Graphene has went through many changes and has done its best to stay on top of blockchain technology. Towards the end of 2014 some of the DACs were merged and the X was dropped from "Graphene X" to become simply Graphene (GPH).
-
-
-Background
-===========
-
-Graphene X was first introduced in a White Paper titled "A Peer-to-Peer Polymorphic Digital Asset Exchange" by Daniel Larimer, Charles Hoskinson, and Stan Larimer. Shortly after authoring the White Paper, the project was founded by Daniel Larimer of Invictus Innovations after receiving funding from Chinese venture capital firm BitFund.PE. Charles Hoskinson, founder of the Bitcoin Education Project, was a co-founder of the original project but has since left the team. The Graphene X project received a lot of attention in August 2013 when it was covered by CoinDesk and subsequently announced to the the BitcoinTalk forums on August 22nd 2013 as a project announcement. The project generated a good amount of buzz around the proposal, though the original scope and timelines have since modified.
+Graphene has went through many changes and has done its best to stay on top of blockchain technology.
 
 
 Consensus Technology
@@ -42,7 +35,7 @@ Distributed Autonomous Companies (DAC) run without any human involvement under t
 Community
 ===============
 
-The Graphene community is a global network of people who all share the same goal of creating and participating in various Distributed Autonomous Companies. The community mainly revolves around the Graphene Team and third parties who use Graphene (the toolkit that makes Graphene possible) to create their own Distributed Autonomous Companies. The main discussions in the Graphene community takes place openly at `Graphene.org <http://bitsharestalk.org>`_.
+The Graphene community is a global network of people who all share the same goal of creating and participating in various Distributed Autonomous Companies. The community mainly revolves around the Graphene Team and third parties who use Graphene (the toolkit that makes Graphene possible) to create their own Distributed Autonomous Companies.
 
 
 |

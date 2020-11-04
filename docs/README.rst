@@ -19,8 +19,8 @@ The purpose of this site is to provide in-depth documentation about the Graphene
 
 
 
-- `Graphene Whitepaper <https://github.com/bitshares-foundation/bitshares.foundation/blob/master/download/articles/BitSharesBlockchain.pdf>`_
-- `Graphene Blockchain Foundation Announcements <http://www.bitshares.foundation/>`_
+- `Graphene Whitepaper <>`_
+
 
 
 * **Development**

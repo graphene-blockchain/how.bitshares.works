@@ -232,13 +232,13 @@ Quick Review Wallet Options
 +====+==========================+===============================================================================================================+
 | 1  | Dashboard                | The Wallet Portfolio, Open Orders, Margin Positions, and Activity information                                 |
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+
-| 2  | Exchange                 | Graphene Exchange, Trading information                                                                       |
+| 2  | Exchange                 | Graphene Exchange, Trading information                                                                        |
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+
-| 3  | Explore                  | Graphene Live Blockchain, Assets, Accounts, Witnesses members, Committee members, Markets, and Fee Schedule  |
+| 3  | Explore                  | Graphene Live Blockchain, Assets, Accounts, Witnesses members, Committee members, Markets, and Fee Schedule   |
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+
-| 4  | Send                     | Opens a Send form. You can send funds to other Graphene Account Holders                                      |
+| 4  | Send                     | Opens a Send form. You can send funds to other Graphene Account Holders                                       |
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+
-| 5  | A Graphene account name | A account name that the data shows on a Dashboard page                                                        |
+| 5  | A Graphene account name | A account name that the data shows on a Dashboard page                                                         |
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+
 | 6  | Key icon                 | By click, opens a login form. Locked/Unlocked Key icon shows if you've logged in the account currently        |
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+
@@ -246,7 +246,7 @@ Quick Review Wallet Options
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+
 | 8  | Asset Total              | Currently showing in a Dashboard Total Assets                                                                 |
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+
-| 9  | Graphene Wallet Version | The Release Version of Graphene UI Wallet                                                                    |
+| 9  | Graphene Wallet Version | The Release Version of Graphene UI Wallet                                                                      |
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+
 | 10 | Latency                  | The delay of Network connection                                                                               |
 +----+--------------------------+---------------------------------------------------------------------------------------------------------------+

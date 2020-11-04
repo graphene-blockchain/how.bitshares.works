@@ -4,7 +4,7 @@ What is different Graphene
 ***************************
 
 
-Here we give a brief overview of what is different in Graphene 2.0 when compared to satoshi-based blockchains such as Bitcoin, Litecoin, etc.. from the perspective of an exchange.
+Here we give a brief overview of what is different in Graphene when compared to satoshi-based blockchains such as Bitcoin, Litecoin, etc.. from the perspective of an exchange.
 
 .. contents:: Table of Contents
    :local:
@@ -13,22 +13,22 @@ Here we give a brief overview of what is different in Graphene 2.0 when compared
 Several Tokens
 ===================
 
-In contrast to all satoshi-based clients, Graphene 2.0 offers a variety of blockchain tokens. There is not just the GPH (core token) but many others. Hence, as an exchange you need to distinguish different assets, either by their id (1.3.0 (GPH), 1.3.1 (USD), ...) or by there symbol.
+In contrast to all satoshi-based clients, Graphene offers a variety of blockchain tokens. There is not just the GPH (core token) but many others. Hence, as an exchange you need to distinguish different assets, either by their id (1.3.0 (GPH), 1.3.1 (USD), ...) or by there symbol.
 
 Registered Identities
 ========================
 
-All participants in Graphene 2.0 are required to have a registered unique name. This is similar to mail addresses and are used to address recipients for transfers. As an exchange you will only ever need to tell your customers your Graphene account name and they will be able to send you funds.
+All participants in Graphene are required to have a registered unique name. This is similar to mail addresses and are used to address recipients for transfers. As an exchange you will only ever need to tell your customers your Graphene account name and they will be able to send you funds.
 
 No More Addresses
 ===================
 
-In Graphene 2.0, we have separated the permissions from the identity. Hence, as an exchange you don't need to ever deal with addresses again. In fact, you actually cannot possibly use an address because they only define so called *authorities* that can control the funds (or the account name). This should greatly simplify integration as you don't need to store thousands of addresses and their corresponding private keys.
+In Graphene, we have separated the permissions from the identity. Hence, as an exchange you don't need to ever deal with addresses again. In fact, you actually cannot possibly use an address because they only define so called *authorities* that can control the funds (or the account name). This should greatly simplify integration as you don't need to store thousands of addresses and their corresponding private keys.
 
 Memos
 ============
 
-In order to distinguish customers, we make use of so called *memos* similar to Graphene 1, which are encrypted. In contrast to Graphene 1.0, we now have a separated memo key that is only capable of decoding your memo and cannot spend funds. Hence, in order to monitor deposits to the exchange you no longer need to expose the private key to an internet connected machine. Instead you only decode the memo and leave the funds where they are.
+In order to distinguish customers, we make use of so called *memos*, which are encrypted. We now have a separated memo key that is only capable of decoding your memo and cannot spend funds. Hence, in order to monitor deposits to the exchange you no longer need to expose the private key to an internet connected machine. Instead you only decode the memo and leave the funds where they are.
 
 Securing Funds
 ================
@@ -46,7 +46,7 @@ We have rewritten the core components from scratch and separated the core P2P an
 Object IDs
 ================
 
-Since Graphene 2.0 offers a variety of features to its users that are different in many ways, we have decided to address them using *object ids*.
+Since Graphene offers a variety of features to its users that are different in many ways, we have decided to address them using *object ids*.
 
 For instance:
 

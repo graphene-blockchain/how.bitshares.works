@@ -2,10 +2,10 @@
 .. _index-bts-accounts:
 
 ********************
-BitShares Accounts
+Graphene Accounts
 ********************
 
-In BitShares, you can create an account relatively easily by using the BitShares UI wallet.  The account comes with the Private/public keys. You should keep the information safe. Also, BitShares account gives you some benefits (i.e., Lifetime Membership (LTM) and Referral Program) and important roles (i.e., voting).  We recommend you to read through BitShares Accounts information to learn more.
+In Graphene, you can create an account relatively easily by using the Graphene UI wallet.  The account comes with the Private/public keys. You should keep the information safe. Also, Graphene account gives you some benefits (i.e., Lifetime Membership (LTM) and Referral Program) and important roles (i.e., voting).  We recommend you to read through Graphene Accounts information to learn more.
 
 -----------
 
@@ -17,7 +17,7 @@ In BitShares, you can create an account relatively easily by using the BitShares
     bts_membership
     bts_fees
     referral
-    vesting_balances	
+    vesting_balances
     bts_permissions
     bts_multi-sign
     voting
@@ -29,6 +29,5 @@ In BitShares, you can create an account relatively easily by using the BitShares
 
 
 
-		
-		
-		
+
+

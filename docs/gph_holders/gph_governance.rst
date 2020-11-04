@@ -5,7 +5,7 @@
 Blockchain Governance
 ******************************
 
-The blockchain can and needs to be governed by **elected** individuals and businesses. The so called *committee* (a set of many individuals), can change blockchain parameters such as block size, block confirmation time and others. Most importantly, though, they deal with the business plan of the blockchain and tweak costs and revenue streams (mainly transaction fees). In contrast to most existing crypto currencies, we re not hoping for a fee market to grow but instead have the committee members deal with fine-tuning of the business plan. Fortunately, the BTS Holders have the final say to approve the executive committee.
+The blockchain can and needs to be governed by **elected** individuals and businesses. The so called *committee* (a set of many individuals), can change blockchain parameters such as block size, block confirmation time and others. Most importantly, though, they deal with the business plan of the blockchain and tweak costs and revenue streams (mainly transaction fees). In contrast to most existing crypto currencies, we re not hoping for a fee market to grow but instead have the committee members deal with fine-tuning of the business plan. Fortunately, the GPH Holders have the final say to approve the executive committee.
 
 Hence, we see businesses competing for seats in the committee to define blockchain parameters.
 

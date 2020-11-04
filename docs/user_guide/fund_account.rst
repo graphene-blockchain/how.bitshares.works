@@ -14,15 +14,15 @@ Fund your Account
 
 Two Options to Fund your Account
 -----------------------------------
- 
-- **Send (Transfer)**: This is for between BitShares account holders to send funds. On the BitShares Blockchain , people never need to deal with *addresses* or *public keys*. BitShares account holders can use their *account names* for communication. 
-- **Deposits**: BitShares account holders can use one of our partners to move over existing funds into your BitShares account.
+
+- **Send (Transfer)**: This is for between Graphene account holders to send funds. On the Graphene Blockchain , people never need to deal with *addresses* or *public keys*. Graphene account holders can use their *account names* for communication.
+- **Deposits**: Graphene account holders can use one of our partners to move over existing funds into your Graphene account.
 
 
 Send (Transfer)
 ========================
 
-Currently, there are two forms to send funds. One is **Send** on the top menu. Another one is **Send (legacy)** on the side menu. Both work the same. 
+Currently, there are two forms to send funds. One is **Send** on the top menu. Another one is **Send (legacy)** on the side menu. Both work the same.
 
 First, we want to list what information on the Send form. Next, you can check each item in the Send form images.
 
@@ -32,9 +32,9 @@ Send Forms items and descriptions
 +---+----------------------------------+--------------------------------------------------------------------------------------+
 |   |    Item                          |       Description                                                                    |
 +===+==================================+======================================================================================+
-| 1 | Sender's BitShares Account name  | This would be your BitShares Account Name (e.g. *bitshares-users*)                   |
+| 1 | Sender's Graphene Account name  | This would be your Graphene Account Name (e.g. *graphene-users*)                   |
 +---+----------------------------------+--------------------------------------------------------------------------------------+
-| 2 | TO                               | Another BitShares Account name whom you want to send funds                           |
+| 2 | TO                               | Another Graphene Account name whom you want to send funds                           |
 +---+----------------------------------+--------------------------------------------------------------------------------------+
 | 3 | QUANTITY                         | - This is a dropdown list and will show all assets you have in the wallet account.   |
 +   +                                  +--------------------------------------------------------------------------------------+
@@ -63,39 +63,39 @@ Instead, all that is needed for transfers is:
 
 * source account name: From
 * destination account name: To
-* funds (amount and asset): Quantity 
+* funds (amount and asset): Quantity
 * asset/token type
 * memo (optional)
 
 A transfer may contain a memo with arbitrary text.
 
 .. note:: The ``memo`` is **encrypted** by default can only be decrypted by the participants of the transfer! The transfer fee depends on the length of the memo!
-   
+
 .. image:: ../images/Send-1.png
-        :alt: bitshares 
+        :alt: graphene
         :width: 650px
-        :align: center	
+        :align: center
 
 > After click [SEND], you need to login (if it's not yet) and [CONFIRM] the Transaction.
 
 **Form: Send - Transfer details (legacy form)**
 
 .. image:: ../images/send-transfer2.png
-        :alt: bitshares 
+        :alt: graphene
         :width: 650px
-        :align: center	
-		
+        :align: center
+
 
 |
 
 Deposit
 ============
 
-Currently, there are two forms to deposit funds. One is **Deposit** and another one is **Deposit (Beta)**. Both locate on the side menu. 
- 
-BitShares has partners to provide Transfer (i.g. Gateway/Bridge) services which you can choose from. Each Transfer service has own instruction and available coins to handle. When you select a Transfer Service, please follow the instruction. In the next section, we will show you several examples and patterns to compare the deposit forms.
+Currently, there are two forms to deposit funds. One is **Deposit** and another one is **Deposit (Beta)**. Both locate on the side menu.
 
-.. note:: On the BitShares blockchain, people never need to deal with *addresses* or *public keys* but can instead use account names. Your account name becomes the *email address* for your funds.
+Graphene has partners to provide Transfer (i.g. Gateway/Bridge) services which you can choose from. Each Transfer service has own instruction and available coins to handle. When you select a Transfer Service, please follow the instruction. In the next section, we will show you several examples and patterns to compare the deposit forms.
+
+.. note:: On the Graphene blockchain, people never need to deal with *addresses* or *public keys* but can instead use account names. Your account name becomes the *email address* for your funds.
 
 
 Deposit Forms Items and Descriptions
@@ -116,52 +116,52 @@ Deposit Forms Items and Descriptions
 +---+-------------------------+--------------------------------------------------------------------------------------+
 | 6 | Memo                    | Your Memo information to transfer funds. (*Not all coins' transfers use `Memo`*)     |
 +---+-------------------------+--------------------------------------------------------------------------------------+
-| 7 | BitShares Account Name  | This would be your BitShares Account name                                            |
+| 7 | Graphene Account Name  | This would be your Graphene Account name                                            |
 +---+-------------------------+--------------------------------------------------------------------------------------+
 
-  If you cannot select an Asset on the Deposit(Beta) form, try to login to your wallet first. 
+  If you cannot select an Asset on the Deposit(Beta) form, try to login to your wallet first.
 
 Examples
 ^^^^^^^^^
-  
+
 **(Example 1) Deposit STEEM by using a Gateway service**
 
 You use `ADDRESS` and `MEMO` to deposit funds. The below images show a Deposit and a Deposit(Beta) forms.
 
 .. image:: ../images/deposit-steem-legacy.png
-        :alt: bitshares 
+        :alt: graphene
         :width: 650px
-        :align: center	
-		
+        :align: center
+
 .. image:: ../images/deposit-steem-2.png
-        :alt: bitshares 
+        :alt: graphene
         :width: 350px
-        :align: center	
-		
-		
+        :align: center
+
+
 **(Example 2) Deposit EOS by using a Gateway service**
 
 You use `ADDRESS` to deposit funds. The below images show a Deposit and a Deposit(Beta) forms.
 
 .. image:: ../images/deposit-eos-legacy.png
-        :alt: bitshares 
+        :alt: graphene
         :width: 650px
-        :align: center	
-		
+        :align: center
+
 .. image:: ../images/deposit-eos-2.png
-        :alt: bitshares 
-        :width: 300px
-        :align: center	
-		
-**(Example 3) Deposit BTS**
-
-You use BitShares Account Name as `ADDRESS` to deposit funds. The below image shows a Deposit(Beta) form.
-
-.. image:: ../images/deposit-bts.png
-        :alt: bitshares 
+        :alt: graphene
         :width: 300px
         :align: center
-		
+
+**(Example 3) Deposit GPH**
+
+You use Graphene Account Name as `ADDRESS` to deposit funds. The below image shows a Deposit(Beta) form.
+
+.. image:: ../images/deposit-bts.png
+        :alt: graphene
+        :width: 300px
+        :align: center
+
 ---------------
 
 .. _transactions:
@@ -169,7 +169,7 @@ You use BitShares Account Name as `ADDRESS` to deposit funds. The below image sh
 
 Transactions
 ========================
-   
+
 .. _proposed-transactions:
 
 Proposed Transactions
@@ -215,7 +215,7 @@ alone.
 
 .. _blind signatures: http://blog.oleganza.com/post/77474860538/blind-signatures
 
-  
+
 |
 
 |

@@ -58,8 +58,8 @@ master_doc = 'index'
 # General information about the project.
 #project = u'Read the Docs Sphinx Theme'
 #copyright = u'Dave Snider, Read the Docs, Inc. & contributors'
-project = u'BitShares Documentation'
-copyright = u'2019, BitShares Blockchain Foundation'
+project = u'Graphene Documentation'
+copyright = u'2020, Graphene Blockchain Foundation'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -107,7 +107,7 @@ pygments_style = 'default'
 intersphinx_mapping = {
     'rtd': ('https://docs.readthedocs.io/en/latest/', None),
     'sphinx': ('http://www.sphinx-doc.org/en/stable/', None),
-    'python': ('https://docs.python.org/', None),	
+    'python': ('https://docs.python.org/', None),
 }
 
 # -- Options for HTML output ---------------------------------------------------
@@ -133,8 +133,8 @@ html_theme_options = {
     # 'navigation_depth': 4,
     # 'includehidden': True,
     #'titles_only': False
-	
-	
+
+
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
@@ -144,10 +144,10 @@ html_theme_path = ['_themes']
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 #html_title = None
-#html_title = "BitShares Blockchain Foundation"
+#html_title = "Graphene Blockchain Foundation"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "BitShares Documentation" 
+html_short_title = "Graphene Documentation"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -211,7 +211,7 @@ html_show_copyright = True
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'BitSharesdoc'
+htmlhelp_basename = 'Graphenedoc'
 
 # -- Options for LaTeX output --------------------------------------------------
 
@@ -233,8 +233,8 @@ latex_elements = {
 #   u'Dave Snider, Read the Docs, Inc. & contributors', 'manual'),
 #]
 latex_documents = [
-  ('index', 'BBF.tex', u'BitShares Documentation',
-   u'BitShares-Core & contributors', 'manual'),
+  ('index', 'BBF.tex', u'Graphene Documentation',
+   u'Graphene-Core & contributors', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -267,8 +267,8 @@ latex_documents = [
 #     [u'Dave Snider, Read the Docs, Inc. & contributors'], 1)
 #]
 man_pages = [
-    ('index', 'BBF.tex', u'BitShares Documentation',
-     [u'BitShares-Core & contributors'], 1)
+    ('index', 'BBF.tex', u'Graphene Documentation',
+     [u'Graphene-Core & contributors'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -286,8 +286,8 @@ man_pages = [
 #   'One line description of project.', 'Miscellaneous'),
 #]
 texinfo_documents = [
-  ('index', 'BitSharesPortal', u'BitShares Documentation',
-   u'BitShares-Core & contributors', 'BitSharesPortal',
+  ('index', 'GraphenePortal', u'Graphene Documentation',
+   u'Graphene-Core & contributors', 'GraphenePortal',
    'BBF project.', 'Miscellaneous'),
 ]
 

@@ -7,10 +7,10 @@ Market Pegged Assets (MPAs)
 A crypto-currency, with the properties and advantages of Bitcoin, that
 is capable of maintaining price parity with a globally adopted currency
 (e.g. U.S.  dollar), has high utility for convenient and censorship
-resistant commerce. This can be achieved by BitShares' market pegged
+resistant commerce. This can be achieved by Graphene' market pegged
 assets (MPA), a new type of freely traded digital asset whose value is
 meant to track the value of a conventional underlying asset by means of
-contracts for difference (CFD). 
+contracts for difference (CFD).
 
 Instead of creating a UIA where the full control over supply is in the
 hands of the issuer, we can also create a **Market Pegged Asset** (MPA)
@@ -23,7 +23,7 @@ and decreasing supply. In order for a user to get some of the new coins,
 he will need to put collateral into a **smart contract** (technically,
 this contract is a *contract for difference*).
 
-> A simple example would be a MPA that is backed by USD (a stable crypto token within BitShares) that requires a collateral ratio of 200%. Then, in order to get new coin, we can borrow 100 USD worth of new coins by paying 200 USD.
+> A simple example would be a MPA that is backed by USD (a stable crypto token within Graphene) that requires a collateral ratio of 200%. Then, in order to get new coin, we can borrow 100 USD worth of new coins by paying 200 USD.
 
 By this, the supply of your coin is increased by 100. But how would it
 be decreased? The USD are locked in the smart contract and can only be
@@ -47,7 +47,7 @@ A *fair price* thus tells the market what your coin is worth (e.g.
 traded for on external exchanges) and triggers margin calls if
 necessary.
 
-But there is more! Everyone that holds your (MPA) coin in BitShares can
+But there is more! Everyone that holds your (MPA) coin in Graphene can
 convert the coin into the backing asset at a fair price. This procedure
 is called "settlement" and ensures that your MPA is always worth **at
 least** the *fair price*.
@@ -58,29 +58,29 @@ asset explorer.
 SmartCoins
 -------------------
 
-BitAssets can be created and owned by anyone on the network. However, those that are owned by the BitShares Committee, are called
+gpAssets can be created and owned by anyone on the network. However, those that are owned by the Graphene Committee, are called
 
 *SmartCoins*. Among these are:
 
-* (Bit)USD
-* (Bit)CNY
-* (Bit)EUR
-* (Bit)GOLD
-* (Bit)Silver
+* (gp)USD
+* (gp)CNY
+* (gp)EUR
+* (gp)GOLD
+* (gp)Silver
 
 Balances in these assets are labeled with `USD`, `CNY`, etc., because represent the same value as their underly.
 
 Collateralized Tokens
 ------------------------------
 
-A *SmartCoin* (synonym for MPA) is a crypto-currency that *always* has 100% or more of its value backed by the BitShares core currency (BTS), to which they can be converted at any time, as *collateral* in a CFD.
+A *SmartCoin* (synonym for MPA) is a crypto-currency that *always* has 100% or more of its value backed by the Graphene core currency (GPH), to which they can be converted at any time, as *collateral* in a CFD.
 
 What makes MPAs unique is that they are free from counterparty risk even though they resemble a CFD backed by collateral. This is achievable by letting the network itself (implemented as a software protocol) be responsible for securing the collateral and performing settlements as will be described in more detail below.
 
 Market Mechanics
 --------------------
 
-Each BitAsset has a feed that is provided by the witnesses that indicate a fair price for that asset. This so called *Settlement Price* or *Feed Price* is used to margin call positions that borrowed BitAssets and can no longer maintain the minimum collateral ratio (i.e. maintenance collateral ratio). The collateral of these positions is used to buy back the debt from the market automatically and the position will be closed. By these rules, the network enforces the exchange participants to always maintain a collateral that is higher than the minimum requirement. Currently, the minimum required collateral ratio is **175%** and can be
+Each gpAsset has a feed that is provided by the witnesses that indicate a fair price for that asset. This so called *Settlement Price* or *Feed Price* is used to margin call positions that borrowed gpAssets and can no longer maintain the minimum collateral ratio (i.e. maintenance collateral ratio). The collateral of these positions is used to buy back the debt from the market automatically and the position will be closed. By these rules, the network enforces the exchange participants to always maintain a collateral that is higher than the minimum requirement. Currently, the minimum required collateral ratio is **175%** and can be
 changed by the witnesses.
 
 Read more about the :ref:`margin call mechanics <dex-margin-mechanics>` before trading.

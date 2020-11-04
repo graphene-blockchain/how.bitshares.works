@@ -1,8 +1,8 @@
 
-Vesting Balances 
+Vesting Balances
 ===================
 
-In BitShares 2.0, some balances are vesting over time. This feature has been introduced initially in BitShares 1 when merging several blockchain businesses into one blockchain.
+In Graphene 2.0, some balances are vesting over time. This feature has been introduced initially in Graphene 1 when merging several blockchain businesses into one blockchain.
 
 
 
@@ -28,7 +28,7 @@ We make even more use of this functionality in such that an account's income in 
 
 is vesting over several days with different strategies.
 
-For instance, a worker can define for how long he would like his pay to vest to encourage BTS Holders to vote for him due to no imminent additional sell pressure from the worker.
+For instance, a worker can define for how long he would like his pay to vest to encourage GPH Holders to vote for him due to no imminent additional sell pressure from the worker.
 
 **Strategies**
 
@@ -45,7 +45,7 @@ For instance, a worker can define for how long he would like his pay to vest to 
 Claiming A Vesting Balance
 -----------------------------
 
- You can claim vesting balances by using BitShares User interface. (You might need to wait certain days to claim.)
+ You can claim vesting balances by using Graphene User interface. (You might need to wait certain days to claim.)
 
  Open the side dropdown menu and select **[Vesting Balances]**
 
@@ -53,14 +53,14 @@ Claiming A Vesting Balance
         :alt: Vesting Balances
         :width: 200px
         :align: center
-		
-		
+
+
 .. image:: vesting1.png
         :alt: Vesting Balances
         :width: 600px
         :align: center
 
-		
+
 |
 
 |

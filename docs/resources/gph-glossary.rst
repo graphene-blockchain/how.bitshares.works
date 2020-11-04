@@ -4,7 +4,7 @@
 Glossary
 *********
 
-Terminology 
+Terminology
 ------------------------
 
 
@@ -13,36 +13,36 @@ A
 .. glossary::
 
 
- 
+
 B
 ~~~~
 .. glossary::
 
-    BitShares Blockchain 
-	    (instead of "BitShares")
+    Graphene Blockchain
+	    (instead of "Graphene")
 
     Blockchains Consensus
 		agreement about the validity rules for transactions, and the order in which they have been observed by the blockchain
-		
+
     Blockchain Protocol
-			
+
     Block Producer
 		(Witness)
-	
-    BTS Holder
+
+    GPH Holder
 	    (instead of shareholder / stakeholders)
-		
+
 C
 ~~~~
 .. glossary::
 
-	
-	
+
+
 D
 ~~~~
 .. glossary::
 
-	Delegated Proof of Stake 
+	Delegated Proof of Stake
 		(DPoS)
 
 E
@@ -57,14 +57,14 @@ F
 
 
 G
-~~~~	
+~~~~
 .. glossary::
-	
+
     Governance
 	    ---
 
 
-H 
+H
 ~~~~
 .. glossary::
 
@@ -110,9 +110,9 @@ N
 ~~~~
 .. glossary::
 
-    Native Core Token BTS
-	    (instead of "BTS")
-	
+    Native Core Token GPH
+	    (instead of "GPH")
+
 
 
 O
@@ -126,7 +126,7 @@ P
 ~~~~
 .. glossary::
 
-    Proof-of-Work 
+    Proof-of-Work
 		(PoW)
 
 Q
@@ -152,8 +152,8 @@ S
 		Seed nodes are the first nodes of the network.It allows other nodes to get started by connecting to them.
 
 	SmartCoins
-		BitAssets are owned by the BitShares Committee. (e.g. BitUSD, BitCNY, BitEUR, BitGold etc)
-		A SmartCoin (synonym for MPA) is a crypto-currency that always has 100% or more of its value backed by the BitShares core currency (BTS), to which they can be converted at any time, as collateral in a collateralized loan.
+		gpAssets are owned by the Graphene Committee. (e.g. gpUSD, gpCNY, gpEUR, gpGold etc)
+		A SmartCoin (synonym for MPA) is a crypto-currency that always has 100% or more of its value backed by the Graphene core currency (GPH), to which they can be converted at any time, as collateral in a collateralized loan.
 
 
 
@@ -163,8 +163,8 @@ T
 
     Token
 	    (instead of asset)
-		
-		
+
+
 
 U
 ~~~~
@@ -172,9 +172,9 @@ U
 
     Units
 	    (instead of shares of an asset/token)
-	
+
 	Unit test
-		In BitShares-Core unit test files locate in a /test/ folder. They are meant to ensure that the code behaves the right way.
+		In Graphene-Core unit test files locate in a /test/ folder. They are meant to ensure that the code behaves the right way.
 
 
 V
@@ -187,7 +187,7 @@ W
 ~~~~
 .. glossary::
 
-    Working Budget 
+    Working Budget
 	    (instead of reserves or treasury)
 
 
@@ -204,7 +204,7 @@ Y
 
 
 
-Z 
+Z
 ~~~~
 .. glossary::
 

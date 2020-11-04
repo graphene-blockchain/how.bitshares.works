@@ -9,12 +9,12 @@ This page will give a very quick introduction on how to interpret the terms used
 .. contents:: Table of Contents
    :local:
 
-   
-   
+
+
 Pairs
 -------------------------
 
-In BitShares, almost any asset can be traded with all other assets. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
+In Graphene, almost any asset can be traded with all other assets. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
 
 For sake of consistency, we will use the generalized terms *base* and *quote* such that pairs are represented as::
 
@@ -57,7 +57,7 @@ Order Books
 The order book consists of an *ask* and a *bid* side. Since trading pairs do not have a preferred orientation, and can be flipped, the following table shall give an overview of ask/bid and the corresponding buy/sell operations for each side:
 
 +------------+---------+---------+
-| Side       | Sell    | Buy     | 
+| Side       | Sell    | Buy     |
 +============+=========+=========+
 | Ask        | *quote* | *base*  |
 +------------+---------+---------+
@@ -83,11 +83,11 @@ Unfilled orders can be canceled at any time.
 Order Matching
 -------------------------
 
-BitShares 2.0 matches orders on a first-come, first-serve basis and gives the buyer the best price possible up to the limit (also known as "walking the book"). Rather than charging *unpredictable fees* from market overlap (as has been in the previous network), the network charges a defined fee based upon the size of the order matched and the assets involved. Each asset issuer gets an opportunity to configure their fees.
+Graphene 2.0 matches orders on a first-come, first-serve basis and gives the buyer the best price possible up to the limit (also known as "walking the book"). Rather than charging *unpredictable fees* from market overlap (as has been in the previous network), the network charges a defined fee based upon the size of the order matched and the assets involved. Each asset issuer gets an opportunity to configure their fees.
 
 ------
 
-The decentralized exchange (DEX) of BitShares has a similar look&feel as traditional centralized exchanges. However, trading in the DEX can have many different appearances, depending on what user-interface is used. We here describe the user interface of the official wallet. 
+The decentralized exchange (DEX) of Graphene has a similar look&feel as traditional centralized exchanges. However, trading in the DEX can have many different appearances, depending on what user-interface is used. We here describe the user interface of the official wallet.
 
 .. _dex-playing-orders:
 
@@ -107,9 +107,9 @@ Orders can be placed in the same way as everywhere else, by providing
 Fees
 -------------------------
 
-In contrast to other exchanges, BitShares asks for a tiny **flat fee** for placing an order. This fee can be payed in USD, BTC, or GOLD and is independent of the actual assets that are traded.
+In contrast to other exchanges, Graphene asks for a tiny **flat fee** for placing an order. This fee can be payed in USD, BTC, or GOLD and is independent of the actual assets that are traded.
 
-If you cancel an order that has not been fully or partially filled, 90% of the fee will be payed back to your account. However, this chargeback will be in ``BTS`` and not in the asset you have originally paid the fee in.
+If you cancel an order that has not been fully or partially filled, 90% of the fee will be payed back to your account. However, this chargeback will be in ``GPH`` and not in the asset you have originally paid the fee in.
 
 |
 

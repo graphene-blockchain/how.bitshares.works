@@ -83,7 +83,7 @@ Unfilled orders can be canceled at any time.
 Order Matching
 -------------------------
 
-Graphene 2.0 matches orders on a first-come, first-serve basis and gives the buyer the best price possible up to the limit (also known as "walking the book"). Rather than charging *unpredictable fees* from market overlap (as has been in the previous network), the network charges a defined fee based upon the size of the order matched and the assets involved. Each asset issuer gets an opportunity to configure their fees.
+Graphene matches orders on a first-come, first-serve basis and gives the buyer the best price possible up to the limit (also known as "walking the book"). Rather than charging *unpredictable fees* from market overlap (as has been in the previous network), the network charges a defined fee based upon the size of the order matched and the assets involved. Each asset issuer gets an opportunity to configure their fees.
 
 ------
 

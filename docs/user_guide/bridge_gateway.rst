@@ -20,9 +20,9 @@ A bridge service provides a way to deposit an amount of a crypto-currency other 
 Gateways: trust-based model
 ===============================
 
-Gateways are basically equivalent to the standard exchange model where you depend on the solvency of the exchange to be able to redeem your coins. Generally gateways issue assets prefixed with their symbol, like OPEN, TRADE, or META. These assets are backed 100% by the real BTC or ETH or any other coin that people deposit with the gateways.
+Gateways are basically equivalent to the standard exchange model where you depend on the solvency of the exchange to be able to redeem your coins. Generally gateways issue assets prefixed with their symbol, like RUDEX, NBSDEX, or GDEX. These assets are backed 100% by the real BTC or ETH or any other coin that people deposit with the gateways.
 
-An RUDEX.BTC is thus in theory equivalent to the BTC you get on Poloniex, which could be prefixed POLO.BTC. In both cases you rely on the service provider, RUDEX for OPEN. assets and Poloniex for POLO. assets, to remain solvent in order to back the value of the assets they've issued. Because gateways only provide this one service which is normally only one part of running an exchange, one might even argue that they have an easier job of securing their holdings.
+An RUDEX.BTC is thus in theory equivalent to the BTC you get on Poloniex, which could be prefixed POLO.BTC. In both cases you rely on the service provider, RUDEX for RUDEX. assets and Poloniex for POLO. assets, to remain solvent in order to back the value of the assets they've issued. Because gateways only provide this one service which is normally only one part of running an exchange, one might even argue that they have an easier job of securing their holdings.
 
  (ref: https://wallet.gph.ai/#/help/introduction/bridges_gateways)
 

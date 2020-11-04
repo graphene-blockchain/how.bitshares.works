@@ -98,7 +98,7 @@ Once every *maintenance interval*, all votes are recounted and the corresponding
 Is there an anti-vote?
 ----------------------
 
-Not any more. After discovering `emski's attack <https://bitsharestalk.org/index.php?topic=5164.msg67657#msg67657>`_ the developers decided to use **Approval Voting**.
+Not any more. The developers decided to use **Approval Voting**.
 
 Disincentives for Attacks
 ==========================
@@ -113,25 +113,5 @@ How many witnesses are securing the network
 
 This is totally in the hands of the shareholders. If the majority votes for 50 witnesses, then 50 witnesses will be used. If the shareholders only vote for 20, so be it. The minimum possible witness count is 11.
 
-DPOS Infographic
-=====================
-
-.. image:: DPOS-infographic.jpg 
-        :alt: Green is Income, Yellow is Profit, Blue is Cost
-        :width: 660px
-        :align: center
-
-Sources and Discussions
-=========================
-
-* https://bitsharestalk.org/index.php?topic=5164.msg67657#msg67657
-* https://bitsharestalk.org/index.php?topic=5205.0
-* https://github.com/BitShares/bitshares_toolkit/wiki/Delegated-Proof-of-Stake
-* https://bitsharestalk.org/index.php?topic=4984.0
-* https://bitsharestalk.org/index.php?topic=4927.0
-* https://bitsharestalk.org/index.php?topic=4869.0
-* https://bitsharestalk.org/index.php?topic=4853.0
-* https://bitsharestalk.org/index.php?topic=4836.0
-* https://bitsharestalk.org/index.php?topic=4714.0
 
 |

@@ -10,9 +10,6 @@ Feed backed assets allow to propose and fund *market based* innovation by sharin
 
 If you have any features in mind that require new kind of transaction on the blockchain, you can code that feature and fund it with an FBA.
 
-Feed Backed Assets have been proposed in `BSIP-0007`_.
-
-.. _BSIP-0007: https://github.com/graphene-blockchain/bsips/blob/master/bsip-0007.md
 
 
 |

@@ -32,7 +32,7 @@ Graphene UI Wallet
 Graphene Block Exploer
 =============================
 
-
+* (*will be added more*)
 
 Blockchain Activity
 ========================

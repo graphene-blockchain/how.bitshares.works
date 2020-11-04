@@ -25,7 +25,7 @@ The purpose of this site is to provide in-depth documentation about the Graphene
 
 * **Development**
 
-  - `Graphene Developers Documentation Portal <http://docs.gph.ai/>`_
+  - `Graphene Developers Documentation Portal <https://docs.gph.ai/>`_
   - `Graphene-Core Release <https://github.com/graphene-blockchain/graphene-core/releases>`_
   - `Graphene-UI Release <https://github.com/graphene-blockchain/graphene-ui/releases>`_
 

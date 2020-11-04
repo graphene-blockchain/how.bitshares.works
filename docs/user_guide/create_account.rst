@@ -333,13 +333,13 @@ Side Menus - Dropdown items
 |                  | - Access                                                                                        |
 |                  | - Faucet                                                                                        |
 +------------------+-------------------------------------------------------------------------------------------------+
-| News             | Graphene Blockchain Foundation and other News                                                  |
+| News             | Graphene Blockchain Foundation and other News                                                   |
 +------------------+-------------------------------------------------------------------------------------------------+
 | Help             | Open a Help page                                                                                |
 +------------------+-------------------------------------------------------------------------------------------------+
 | Voting           | You can vote for Witnesses, Committee or Workers. Or you can set a Proxy to case a vote.        |
 +                  +-------------------------------------------------------------------------------------------------+
-|                  | Voting is important: in Graphene in the same way it is important to the community              |
+|                  | Voting is important: in Graphene in the same way it is important to the community               |
 |                  | in which you live. The weight of your vote is directly correlated to the number of GPH you own. |
 +                  +-------------------------------------------------------------------------------------------------+
 |                  | If you aren't heavily involved in the community, you are encouraged to choose a proxy who       |

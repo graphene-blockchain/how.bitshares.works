@@ -13,7 +13,7 @@ For the Starter
   With Graphene it becomes possible to interact with people directly without needing to go through a middleman.  Hence, Graphene is a platform of free speech that implements a payment platform and exchange for digital goods.
 
 * **Fast**:
-  Transactions in Graphene are verified and irrevocable in only a few seconds   time.
+  Transactions in Graphene are verified and irrevocable in only a few seconds time.
 
 * **Decentralized Committee**:
   Decisions that can effect the Graphene ecosystem are made using a on-chain committee voted upon by shareholders.  Hence, no single entity can change the deal retroactively.

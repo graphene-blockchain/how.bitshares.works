@@ -20,7 +20,7 @@ Price-Stable Cryptocurrencies
 
   - SmartCoins provide the freedom of cryptocurrency with the stability of the dollar
 
- A SmartCoin is a cryptocurrency whose value is pegged to that of another asset, such as the US Dollar or gold. SmartCoins always have 100% or more of their value backed by the Graphene core currency, GPH, to which they can be converted at any time at an exchange rate set by a trustworthy price feed. In all but the most extreme market conditions, SmartCoins are guaranteed to be worth at least their face value (and perhaps more, in some circumstances). Like any other cryptocurrency, SmartCoins are fungible, divisible, and free from any restrictions.
+A SmartCoin is a cryptocurrency whose value is pegged to that of another asset, such as the US Dollar or gold. SmartCoins always have 100% or more of their value backed by the Graphene core currency, GPH, to which they can be converted at any time at an exchange rate set by a trustworthy price feed. In all but the most extreme market conditions, SmartCoins are guaranteed to be worth at least their face value (and perhaps more, in some circumstances). Like any other cryptocurrency, SmartCoins are fungible, divisible, and free from any restrictions.
 
 Decentralized Asset Exchange
 ===============================

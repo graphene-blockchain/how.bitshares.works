@@ -10,12 +10,11 @@ Communities
 ======================
 
 
-
-* `Telegram - Graphene`_
+- `Telegram - Graphene <https://t.me/graphene_dex/>`_
 
 * (*will be added more*)
 
-.. _Telagram - Graphene: https://t.me/graphene_dex
+
 
 
 |

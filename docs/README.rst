@@ -19,19 +19,16 @@ The purpose of this site is to provide in-depth documentation about the Graphene
 
 
 
-- `Graphene Whitepaper <>`_
+- `Graphene Whitepaper <https://wp.gph.ai/>`_
 
 
 
 * **Development**
 
-  - `Graphene Developers Documentation Portal <https://docs.gph.ai/>`_
+  - `Graphene Developers Documentation Portal <https://developers.gph.ai>`_
   - `Graphene-Core Release <https://github.com/graphene-blockchain/graphene-core/releases>`_
   - `Graphene-UI Release <https://github.com/graphene-blockchain/graphene-ui/releases>`_
 
-* **New: SimpleGUIWallet**
-
-  - :ref:`Securing Graphene with Ledger Nano <ledger-nano>`
 
 
 
